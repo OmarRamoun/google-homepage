@@ -61,7 +61,7 @@ I thought about trying the orginal "google" logo colors and that was the result.
 
 So i picked some cool gradients that look playful and cool at the same time because these are the vibes that I want.
 
-![](https://github.com/MrRamoun/google-homepage/blob/master/design/google%20logo%20redesign/%2311%20-%20final%20logo%20with%20gradients%20.png?raw=true "cool right?"
+![](https://github.com/MrRamoun/google-homepage/blob/master/design/google%20logo%20redesign/%2311%20-%20final%20logo%20with%20gradients%20.png?raw=true "cool right?")
 
 ## Overview
 
