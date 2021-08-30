@@ -2,7 +2,11 @@
 a google homepage redesign project (first Html-Css Project)
 
 ## Project Brief
-redesigning the google searh homepage with my own style
+Redesigning the google logo and the google searh homepage with my own style
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/60979926/131287281-675555d9-f908-4ea7-b7c6-02eac4f4eae1.png)
 
 ## inspiration
 
