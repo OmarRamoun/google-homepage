@@ -1,4 +1,12 @@
+[![](https://img.shields.io/static/v1?label=BY&message=RAMOUN&color=birghtgreen)](https://omarramoun.com)
+[![Website](https://img.shields.io/badge/OmarRamoun.com--yellow?style=social&logo=Firefox)](https://www.omarramoun.com/)
+
+![html](https://img.shields.io/badge/-html-1f1f1f?logo=html5&logoColor=DB709361DAFB&style=for-the-badge)
+![css](https://img.shields.io/badge/CSS-fbfbfb?style=for-the-badge&logo=css3&logoColor=DB7093)
+![javascript](https://img.shields.io/badge/javascript-CA4245?style=for-the-badge&logo=javascript&logoColor=white)
+
 # google-homepage
+
 a google homepage redesign project (first Html-Css Project)
 
 ## Project Brief
@@ -33,3 +41,26 @@ Redesigning the google logo and the google searh homepage with my own style
 1. ability to use figma.
 1. ability to google search better.
 1. a more deep understanding of layouting using css (especially: css-flexbox and css-grids beside using floats and positioning.)
+
+## Authors
+
+👤 **Omar Ramoun**
+
+- **GitHub**: [![@omarramoun](https://img.shields.io/github/followers/OmarRamoun?label=OmarRamoun&style=social)](https://github.com/OmarRamoun)
+- **Twitter**: [![@omarramoun](https://img.shields.io/twitter/follow/OmarRamoun?label=OmarRamoun&style=social)](https://twitter.com/OmarRamoun)
+- **LinkdIn**: [![@omarramoun](https://img.shields.io/github/followers/OmarRamoun?label=OmarRamoun&logo=linkedin&style=social)](https://www.linkedin.com/in/OmarRamoun/)
+- **Website**: [![Website](https://img.shields.io/badge/omarramoun.com--yellow?style=social&logo=Firefox)](https://www.omarramoun.com/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](https://github.com/MrRamoun/NYT-Article-Clone/blob/dev/LICENSE) licensed.
