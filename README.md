@@ -34,7 +34,7 @@ Redesigning the google logo and the google searh homepage with my own style
 [The Design](https://www.figma.com/file/TySqwr7Z8q2AtmMOQkzZI7/Google-Home-Page?node-id=0%3A1)
 
 ## preview
-[click on me to preview the redesigned google homepage](https://mrramoun.github.io/google-homepage)
+[click on me to preview the redesigned google homepage](https://omarramoun.github.io/google-homepage/)
 ## Skills Aquired
 
 1. developed my own web design approach (from sketching to layout to desing using figma to implementation using html and css). 
